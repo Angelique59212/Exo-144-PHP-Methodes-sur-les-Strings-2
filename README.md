@@ -32,7 +32,8 @@ votre chaîne en utilisant la bonne fonction sur les strings.
 
 - Créez une chaine de caractères avec le texte de votre choix.
 - Transformez cette chaine de caractères à l'aide de la bonne fonction
-- Utilisez une boucle pour afficher chaque mot ( entrée du tableau ) du retour de la fonction sur une ligne pour chaque mot ( 1 ligne par mot )
+- Utilisez une boucle pour afficher chaque mot ( entrée du tableau ) du retour de la fonction sur une ligne pour 
+chaque mot ( 1 ligne par mot )
 
 
 ## Exo 5
@@ -59,7 +60,8 @@ votre chaîne en utilisant la bonne fonction sur les strings.
 
 ## Exo 9
 - Créez une variable avec le texte de votre choix
-- A l'aide d'une boucle, parcourez une à u ne les lettres de la chaînes et affichez les à l'écran. Chaque lettre sera affichée sur une ligne entière.
+- A l'aide d'une boucle, parcourez une à u ne les lettres de la chaînes et affichez les à l'écran. 
+- Chaque lettre sera affichée sur une ligne entière.
 
 ## Exo 10
 - Créez une variable avec le texte de votre choix
@@ -70,7 +72,8 @@ votre chaîne en utilisant la bonne fonction sur les strings.
 - A l'aide de la bonne function, vérifiez que le texte 'test' est bien présent.
 
 ## Exo 12
-- Créez une fonction permettant de vérifier si du texte contenu dans une chaine de caractère est au début de cette chaine
+- Créez une fonction permettant de vérifier si du texte contenu dans une chaine de caractère est au début 
+- de cette chaine
 
 ## Exo 13
 - Faire la même chose que l'exo 12, mais pour vérifier que la chaine se termine par la portion de texte.
